@@ -1,0 +1,5 @@
+{
+    "scm.alwaysShowRepositories": true,
+    "scm.alwaysShowActions": true,
+    "markdown.extension.print.theme": "dark"
+}
